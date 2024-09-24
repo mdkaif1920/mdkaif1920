@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @mdkaif1920
 - 👀 I’m interested in Traveling.
 - 🌱 I’m currently learning.    
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me https://github.com/mdkaif1920
 
 <!---
 mdkaif1920/mdkaif1920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
